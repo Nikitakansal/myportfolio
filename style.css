@@ -18,7 +18,7 @@ body {
     color: #FFFFFF;
     bottom: 0;
     
-    background-image: url("https://cdn.dribbble.com/users/270201/screenshots/1851156/pattern-bg.png?compress=1&resize=400x300");
+    background-image: linear-gradient(45deg,rgb(26, 206, 131) 0% rgb(42, 212, 212) 25% rgb(41, 44, 223)75% rgb(211, 53, 145) 100%);
     background-size: cover;
     display: table;
     width: 100%;
