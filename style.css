@@ -70,13 +70,9 @@ p {
 }
 
 .parallax-inner {
-
-    display: inline-block;
-    position: relative;
     text-align: center;
-    vertical-align: middle;
-
 }
+
 .puppy{
 width: 20%;
 height: 300px;
